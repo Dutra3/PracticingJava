@@ -38,4 +38,13 @@ public class Motor {
     public void setCar(Car car) {
         this.car = car;
     }
+
+    @Override
+    public String toString() {
+        return "Motor{" +
+                "isMotorOn=" + isMotorOn +
+                ", injectionFactor=" + injectionFactor +
+                ", car=" + car +
+                '}';
+    }
 }

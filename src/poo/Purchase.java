@@ -25,4 +25,12 @@ public class Purchase {
 
         return total;
     }
+
+    @Override
+    public String toString() {
+        return "Purchase{" +
+                "client='" + client + '\'' +
+                ", products=" + products +
+                '}';
+    }
 }
