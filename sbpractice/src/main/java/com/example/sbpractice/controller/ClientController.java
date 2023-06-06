@@ -1,6 +1,6 @@
 package com.example.sbpractice.controller;
 
-import com.example.sbpractice.model.Client;
+import com.example.sbpractice.model.entities.Client;
 import org.springframework.web.bind.annotation.*;
 
 @RestController

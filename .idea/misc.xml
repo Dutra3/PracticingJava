@@ -6,6 +6,7 @@
       <list>
         <option value="$USER_HOME$/Downloads/sbpractice/pom.xml" />
         <option value="$PROJECT_DIR$/sbpractice/pom.xml" />
+        <option value="$PROJECT_DIR$/../sbpractice/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

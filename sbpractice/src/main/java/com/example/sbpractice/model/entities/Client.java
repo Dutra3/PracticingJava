@@ -1,4 +1,4 @@
-package com.example.sbpractice.model;
+package com.example.sbpractice.model.entities;
 
 public class Client {
 
